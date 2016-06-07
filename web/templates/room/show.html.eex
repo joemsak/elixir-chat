@@ -1,0 +1,9 @@
+<div id="messages"></div>
+<textarea placeholder="Type your message and hit ENTER..." id="input" rows="5" class="form-control"></textarea>
+
+<style>
+  #messages {
+    min-height: 300px;
+    background-color: #eee;
+  }
+</style>
